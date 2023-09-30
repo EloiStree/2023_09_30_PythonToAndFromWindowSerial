@@ -1,3 +1,7 @@
+> This git is not coded yet
+> It is just created because I need to code it at one point in the future.
+
+
 # 2023_09_30_PythonToWindowSerial
 
 > Be able to broadcast in UDP read input of the Serial Port and send string value to the Serial port through UDP.

@@ -2,6 +2,8 @@
 import serial
 import serial.tools.list_ports
 
+
+
 '''
 def scan():
     available = []
@@ -34,3 +36,15 @@ else:
     for port_info in com_ports:
         port, desc, _ = port_info
         print(f"COM Port: {port}, Description: {desc}")
+
+
+''' 
+Result:
+COM Port: COM16, Description: Standard Serial over Bluetooth link (COM16)
+COM Port: COM15, Description: Standard Serial over Bluetooth link (COM15)
+#Arduno Mega
+COM Port: COM42, Description: Arduino Mega 2560 (COM42)  
+#Arduino Uno
+COM Port: COM43, Description: USB Serial Device (COM43)  
+
+'''

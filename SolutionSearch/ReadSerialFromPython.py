@@ -40,6 +40,7 @@ else:
 
 ''' 
 Result:
+# HC 06 and HC5 Paired
 COM Port: COM16, Description: Standard Serial over Bluetooth link (COM16)
 COM Port: COM15, Description: Standard Serial over Bluetooth link (COM15)
 #Arduno Mega
